@@ -11,7 +11,7 @@
 
 - 🕹️ All of my **videogames** are available at [**itch.io**](https://darkops96.itch.io)
 
-- 📫 How to reach me **https://darkops.carrd.co**
+- 📫 You can reach me through my [**personal card**](https://darkops.carrd.co)
 
 - 😄 Pronouns: **He/Him**
 
