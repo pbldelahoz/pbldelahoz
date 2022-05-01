@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning about **VR development**
 
-- 🕹️ All of my videogames are available at [https://darkops96.itch.io](https://darkops96.itch.io)
+- 🕹️ All of my **videogames** are available at [itch.io](https://darkops96.itch.io)
 
 - 📫 How to reach me **https://darkops.carrd.co**
 
