@@ -11,6 +11,8 @@
 
 - 🕹️ All of my **videogames** are available at [**itch.io**](https://darkops96.itch.io)
 
+- :film_strip: My **animation demo reel** can be found at [**Vimeo**](https://vimeo.com/726130130)
+
 - 📫 You can reach me through my [**personal card**](https://darkops.carrd.co)
 
 - 😄 Pronouns: **He/Him**
