@@ -1,15 +1,15 @@
 <h1 align="center">Hey! I'm Pablo de la Hoz</h1>
 <h3 align="center">A passionate videogame developer and animator from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkops96&label=Cool%20people&color=0e75b6&style=plastic" alt="darkops96" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pbldelahoz&label=Cool%20people&color=0e75b6&style=plastic" alt="pbldelahoz" /> </p>
 
-<p align="left"> <a href="https://twitter.com/darkops___" target="blank"><img src="https://img.shields.io/twitter/follow/darkops___?logo=twitter&style=for-the-badge" alt="darkops___" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pbldelahoz" target="blank"><img src="https://img.shields.io/twitter/follow/pbldelahoz?logo=twitter&style=for-the-badge" alt="pbldelahoz" /></a> </p>
 
 - 🔭 I’m currently finishing my **double degree in videogame design and development and computer engineering**
 
 - 🌱 I’m currently learning about **VR development**
 
-- 🕹️ All of my **videogames** are available at [**itch.io**](https://darkops96.itch.io)
+- 🕹️ All of my **videogames** are available at [**itch.io**](https://pbldelahoz.itch.io)
 
 - :film_strip: My **animation demo reel** can be found at [**Vimeo**](https://vimeo.com/726130130)
 
@@ -34,6 +34,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/darkops___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darkops___" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pablo-de-la-hoz-menéndez-4006a619a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pbldelahoz@gmail.com" height="30" width="40" /></a>
+<a href="https://twitter.com/pbldelahoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pbldelahoz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pbldelahoz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pbldelahoz@gmail.com" height="30" width="40" /></a>
 </p>
